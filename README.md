@@ -1,6 +1,14 @@
 gpg-docs
 ========
 
+##General
+
+###Import Local GPG Public Key
+
+```shell
+$ gpg --import ~/keys/pub/tom.asc
+```
+
 ##Encryption
 
 ##Decryption
